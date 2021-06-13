@@ -11,12 +11,20 @@ nav{
   background-color: #fafcff !important;
   color: rgb(27, 28, 37) !important;
   padding: 0 100px;
-  height: 100px !important;
+  
 }
+
+
 
 .carousel{
   padding: 0 100px;
 }
+
+.img-fluid{
+  width: 100% !important;
+ 
+}
+
 h5{
     padding: 10px;
     font-family: 'DM Serif Display', serif;
@@ -50,8 +58,10 @@ h3{
   max-width: 100% !important;
 }
 
+
 .row-cols-4>*{
   width: 33.33333% !important;
+  padding-bottom: 100px;
 }
 
 .hunde{
@@ -72,4 +82,9 @@ span{
 }
 .caption{
   padding: 10px;
+}
+
+footer{
+  height: 100px;
+  background-color:#eaebee ;
 }
