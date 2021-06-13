@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+body{
+  background-color: #fefefe !important;
+  color: rgb(27, 28, 37) !important;
+}
+
+nav{
+  background-color: #fefefe !important;
+  color: rgb(27, 28, 37) !important;
+}
+
+h5{
+    padding: 10px;
+    font-family: 'DM Serif Display', serif;
+    border-bottom: white solid 2px;
+}
+
+h3{
+    color: rgb(23, 22, 26);
+    font-family: 'DM Serif Display', serif;
+    border-bottom: rgb(0, 0, 0) solid 2px;
+}
+#showmore{
+    margin-bottom: 50px;
+}
+
+#startbild{
+  margin: 50px;
+  padding: 0;
+}
+
+#startcon{
+  padding: 0 !important;
+}
+#startbild{
+  padding: 0% !important;
+}
+
+
+#galerie{
+  margin: 0 !important;
+  max-width: 100% !important;
+}
+
+.row-cols-4>*{
+  width: 33.33333% !important;
+}
+
+.row>*{
+  padding: 25px !important;
+}
+.hunde{
+  width: 100%;
+}
+
+h4{
+  font-family: 'DM Serif Display', serif;
+  font-size: 2em !important;
+  color: rgb(27, 28, 37) ;
+  padding: 5px 0;
+}
+
+span{
+  padding: 5px 0;
+}
+
+.beschreib{
+  padding: 5px 0;
+}
