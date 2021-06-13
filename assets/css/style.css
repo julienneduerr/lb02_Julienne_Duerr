@@ -11,10 +11,14 @@ nav{
   background-color: #fafcff !important;
   color: rgb(27, 28, 37) !important;
   padding: 0 100px;
-  
+  height: 100px;
 }
 
-
+#einleitung{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
 
 .carousel{
   padding: 0 100px;
@@ -32,9 +36,9 @@ h5{
 }
 
 h3{
-    color: rgb(23, 22, 26);
-    font-family: 'DM Serif Display', serif;
-    border-bottom: rgb(0, 0, 0) solid 2px;
+  font-family: 'DM Serif Display', serif;
+  font-size: 2em !important;
+  color: rgb(34, 36, 48) ;
 }
 #showmore{
     margin-bottom: 50px;
@@ -88,3 +92,12 @@ footer{
   height: 100px;
   background-color:#eaebee ;
 }
+
+
+
+
+
+
+
+
+
