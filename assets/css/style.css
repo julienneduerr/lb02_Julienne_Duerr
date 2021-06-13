@@ -1,15 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap');
 
 body{
-  background-color: #fefefe !important;
+  background-color: #fafcff !important;
   color: rgb(27, 28, 37) !important;
+  font-family: 'Raleway', sans-serif !important;
 }
 
 nav{
-  background-color: #fefefe !important;
+  background-color: #fafcff !important;
   color: rgb(27, 28, 37) !important;
+  padding: 0 100px;
+  height: 100px !important;
 }
 
+.carousel{
+  padding: 0 100px;
+}
 h5{
     padding: 10px;
     font-family: 'DM Serif Display', serif;
@@ -39,7 +46,7 @@ h3{
 
 
 #galerie{
-  margin: 0 !important;
+  padding: 100px  !important;
   max-width: 100% !important;
 }
 
@@ -47,24 +54,22 @@ h3{
   width: 33.33333% !important;
 }
 
-.row>*{
-  padding: 25px !important;
-}
 .hunde{
   width: 100%;
+  margin-bottom: 10px ;
 }
 
 h4{
   font-family: 'DM Serif Display', serif;
-  font-size: 2em !important;
-  color: rgb(27, 28, 37) ;
-  padding: 5px 0;
+  font-size: 1.5em !important;
+  color: rgb(34, 36, 48) ;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 span{
-  padding: 5px 0;
+  font-size: 0.8em;
 }
-
-.beschreib{
-  padding: 5px 0;
+.caption{
+  padding: 10px;
 }
