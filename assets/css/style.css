@@ -21,7 +21,7 @@ nav{
 }
 
 .carousel{
-  padding: 0 100px;
+  padding: 100px;
 }
 
 .img-fluid{
@@ -93,11 +93,21 @@ footer{
   background-color:#eaebee ;
 }
 
+#kontakt{
+  display: flex;
+  flex-direction: row;
+}
 
 
+.col-md-4{
+  width: 100% !important;
+}
+.col-md-5{
+  width: 100% !important;
+}
+.col-md-6{
 
-
-
-
+  width: 100% !important;
+}
 
 
