@@ -35,6 +35,15 @@ h5{
     border-bottom: white solid 2px;
 }
 
+a{
+  text-decoration: none !important;
+  color:  rgb(27, 28, 37) !important;
+}
+
+#showmore{
+    margin-bottom: 50px;
+}
+
 h3{
   font-family: 'DM Serif Display', serif;
   font-size: 2em !important;
@@ -46,11 +55,6 @@ h2{
   font-size: 1em !important;
   font-weight: 700!important;
   color: rgb(34, 36, 48) ;
-}
-
-
-#showmore{
-    margin-bottom: 50px;
 }
 
 .firsta{
@@ -138,10 +142,7 @@ span{
   width: 25%;
 }
 
-a{
-  text-decoration: none !important;
-  color:  rgb(27, 28, 37) !important;
-}
+
 
 
 footer img{
