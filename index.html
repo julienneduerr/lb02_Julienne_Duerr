@@ -258,7 +258,17 @@
               </div>
             </div>
 
-            <button class="btn btn-outline-dark" type="submit">Absenden</button>
+            
+              <div class="popup" onclick="myFunction()">Absenden
+                <span class="popuptext" id="myPopup">Wir werden mit Ihnen in Kontakt treten!</span>
+              </div>
+            <script>
+              // When the user clicks on div, open the popup
+              function myFunction() {
+                var popup = document.getElementById("myPopup");
+                popup.classList.toggle("show");
+              }
+              </script>
         </form>
       </div>
     </div>
